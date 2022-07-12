@@ -1,0 +1,23 @@
+{
+  "name": "Project-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanluqman/Project-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanluqman/Project-testing/issues"
+  },
+  "homepage": "https://github.com/alanluqman/Project-testing#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
